@@ -15,4 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain)](https://github.com/Mahtab-Hossain/github-readme-stats)
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-![Metrics](https://metrics.lecoq.io/Mahtab-Hossain?template=classic&config.timezone=Asia%2FDhaka)
+![Metrics](https://metrics.lecoq.io/Mahtab-Hossain)
