@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/mahtab_hossain?theme=dark&font=Roboto&ext=heatmap" width="85%"/>
+  <img src="https://leetcard.jacoblin.cool/mahtab_hossain?theme=dark&font=Roboto&ext=heatmap" height="160"/>
 </p>
 
 <p align="center">
