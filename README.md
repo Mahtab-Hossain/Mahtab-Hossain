@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark" height="160"/>
+  <img src="https://leetcard.jacoblin.cool/mahtab_hossain?theme=dark&font=Roboto&ext=heatmap" width="85%"/>
 </p>
 
 <p align="center">
@@ -60,10 +61,7 @@
 
 ---
 
-### 💡 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mahtab_hossain?theme=dark&font=Roboto&ext=heatmap" width="85%"/>
-</p>
+
 
 ---
 
