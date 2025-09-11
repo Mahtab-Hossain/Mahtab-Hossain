@@ -40,16 +40,15 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/mahtab_hossain?theme=dark&font=Ubuntu" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Hossain&theme=dark" height="160"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark" width="45%" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Hossain&theme=dark" width="45%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mahtab-Hossain&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%" />
+
+</div>
 ---
 
 ### 🏆 GitHub Achievements  
@@ -67,5 +66,5 @@
 
 ### 📈 Metrics  
 <p align="center">
-  <img src="https://metrics.lecoq.io/Mahtab-Hossain?template=classic&isocalendar=1&activity=1&isocalendar.duration=full-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FDhaka" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahtab-Hossain&theme=github-dark&hide_border=true" width="90%"/>
 </p>
