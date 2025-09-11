@@ -1,89 +1,51 @@
-#### 💫 A chef Who loves to cook visually appealing web applications with different technologies.
+<h1 align="center">👋 Hi there, I'm Md. Mahtab Hossain Bhuiyan</h1>
 
-Hello, I am yeasin form Dhaka and I am 22 year old. I'm a self-taught front-end focused Full Stack Web Developer. TypeScript and Nextjs enthusiast. I have been doing freelance project from last 1 year and working with teams to make good projects.
-Wanna collaborate? Let's build something amazing together! 🖤
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahtab-Hossain&color=green" alt="profile views" />
+</p>
 
-- 💬 Loves to Talk about Technology, Software, Coding, And Ideas
-- 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
-- 🌱 Explorering Back-End, Database,Linux etc.
+---
 
-### Enthusiast For
+### 🚀 About Me  
+- 🔭 Currently working on **DevOps and Cyber-Security**  
+- 🌱 Learning **Shell-Scripting**  
+- 👯 Open to collaborate on **Machine Learning Projects**  
+- 💬 Ask me about **comics**  
+- ⚡ Fun fact: *God got bored and created the Universe*  
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,tailwindcss,react,next,nuxt,redux,reactquery" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,hono,trpc,postgresql,githubactions,drizzle,linux" />
+---
 
+### 🔗 Connect with Me  
+<p align="left">
+  <a href="mailto:mahtab.hossain.bhuiyan@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/md-mahtab-hossain-bhuiyan-8a2299167"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
+  <a href="https://github.com/Mahtab-Hossain"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" /></a>
+</p>
 
+---
 
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark" height="160"/>
+</p>
 
-### Contact Info
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Hossain&theme=dark" height="160"/>
+</p>
 
-<a href="mailto:mdkawsarislam2002@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-</a>
-<a href="https://yeasin2002.netlify.app/">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" />
-</a>
- <a href="https://www.linkedin.com/in/yeasin2002/">
-       <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-    </a>
-    
- <a href="https://www.facebook.com/yeasin2002.dev/">
-       <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
-    </a>
- 
+---
 
-<a href="https://www.reddit.com/user/mdkawsarislam2002/">
-       <img src="https://go-skill-icons.vercel.app/api/icons?i=reddit" />
-    </a>
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Mahtab-Hossain?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Mahtab-Hossain?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/user-stars/Mahtab-Hossain?style=for-the-badge&color=blue" />
+</p>
 
-<a href="https://leetcode.com/yeasin2002">
-       <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" />
-    </a>
+---
 
-
-<br  />
-<br />
-<br />
-
-### Statistics
-
-<table>
-  <tr>
-    <td> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin2002&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" />
-     </td>
-    <td>
-     <img src="https://leetcard.jacoblin.cool/yeasin2002" /> 
-     </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-
-<td>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=yeasin2002&theme=tokyonight&hide_border=true" /> 
-</td>
-<td> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=yeasin2002&show_icons=true" />
-</td>
-  </tr>
-</table>
-
-
-<!--
-
-<details >
-<summary>  <h4 > 📈 More GitHub States (Click to Open) </h4> </summary>
-<be>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasin2002&show_icons=true)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yeasin2002)](https://leetcode.com/yeasin2002)
-
-</details>
--->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
-
+### 📈 Metrics  
+<p align="center">
+  <img src="https://metrics.lecoq.io/Mahtab-Hossain?template=classic&isocalendar=1&activity=1&isocalendar.duration=full-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FDhaka" width="90%"/>
+</p>
