@@ -43,26 +43,31 @@
 </p>
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-<!-- First Row - Stats and Streak -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" height="180" /> &nbsp&nbsp
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Hossain&theme=dark" height="180" />
-</div>
+<!-- Row 1 -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" height="160" width="340" />
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Hossain&theme=dark" height="160" width="340" />
+    </td>
+  </tr>
+</table>
 
-<!-- Spacing between rows -->
+<!-- Row 2 -->
 <br/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark" height="160" width="700" />
+  </tr>
+</table>
 
-
-<!-- Second Row - Language stats -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark" height="200" />
 </div>
 
-</div>
 
 
 ---
