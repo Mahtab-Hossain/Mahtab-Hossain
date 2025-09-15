@@ -50,15 +50,15 @@
 
 <!-- First Row - Stats and Streak -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" width=45% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" width=75% />
 </div>
 <br/>
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Hossain&theme=dark"  width=45% /></div><br/>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Hossain&theme=dark"  width=75% /></div><br/>
 
 
 <!-- Second Row - Language stats -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark"  width=45% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Hossain&layout=compact&theme=dark"  width=75% />
 </div>
 
 </div>
