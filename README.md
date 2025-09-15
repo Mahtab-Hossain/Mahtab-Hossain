@@ -66,22 +66,37 @@
 
 ---
 
-### Leetcode Stats
+### Competitive  Stats
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" align="center" style="vertical-align: top;">
+      <a href="https://leetcode.com/u/mahtab_hossain/">
+        <img src="https://leetcard.jacoblin.cool/mahtab_hossain?theme=dark&font=Ubuntu%20Condensed&ext=heatmap" width=100% />
+      </a>
+    </td>
+    <td width="50%" align="center" style="vertical-align: top;">
+      <a href="https://codeforces.com/profile/mahtab_">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahtab_&theme=vision-friendly-dark&disable_animations=true&show_icons=true&force_username=true" width=84% />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://leetcode.com/u/mahtab_hossain/">
+
+
+
+
+
+
+<!--Leet code stat
+<!-- <a href="https://leetcode.com/u/mahtab_hossain/">
   <img src="https://leetcard.jacoblin.cool/mahtab_hossain?theme=dark&font=Ubuntu%20Condensed&ext=heatmap" width="400" />
 </a>
-
-
-
----
-
----
 ### Codeforces Stats
-
 <a href="https://codeforces.com/profile/mahtab_">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahtab_&theme=vision-friendly-dark&disable_animations=true&show_icons=true&force_username=true" width="400" />
 </a>
+ -->
 
 ---
 
