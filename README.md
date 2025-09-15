@@ -112,11 +112,6 @@
 
 ---
 
-### Contributation Stat
-
-![](https://green-wall.leoku.dev/api/og/share/[Mahtab-Hossain])
-
----
 ### 📈 Metrics  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahtab-Hossain&theme=github-dark&hide_border=true" width="90%"/>
