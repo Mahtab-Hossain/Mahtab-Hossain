@@ -63,7 +63,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" width=75% />
 </div>
 <br/>
-<div><img src="https://streak-stats.demolab.com?user=Mahtab-Hossain&theme=dark"  width=75% /></div><br/>
+<div>
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Mahtab-Hossain&theme=dark" alt="GitHub Streak" width=75% /></a>
+</div><br/>
 
 <div>
   <img src="https://kasroudra-stats-card.onrender.com/lang?user=Mahtab-Hossain&layout=compact&type=bar&theme=dark"  width=82% />
