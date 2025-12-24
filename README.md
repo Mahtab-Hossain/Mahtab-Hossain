@@ -60,7 +60,7 @@
 
 <!-- First Row - Stats and Streak -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Hossain&theme=dark&show_icons=true&count_private=true" width=75% />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mahtab-Hossain?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" width=75% />
 </div>
 <br/>
 <div>
