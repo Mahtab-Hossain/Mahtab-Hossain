@@ -64,7 +64,7 @@
 </div>
 <br/>
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Mahtab-Hossain&theme=dark" alt="GitHub Streak" width=75% /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mahtab-Hossain&theme=dark" alt="GitHub Streak" width=75% /></a>
 </div><br/>
 
 <div>
