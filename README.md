@@ -64,7 +64,7 @@
 </div>
 <br/>
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mahtab-Hossain&theme=dark" alt="GitHub Streak" width=75% /></a>
+  <a href="https://git.io/streak-stats"><img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Mahtab-Hossain&theme=%7B%22backgroundColor%22%3A%22%23020203%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2396fdfd%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%23717f7c%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D" alt="GitHub Streak" width=75% /></a>
 </div><br/>
 
 <div>
